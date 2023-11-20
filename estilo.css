@@ -1,0 +1,93 @@
+body{background-color: black;}
+
+h1{color: white;}
+
+body{color: white}
+
+.characters{font-style:italic}
+
+.Fim{background-color: rgb(27, 26, 26);}
+
+.List{background-color: rgb(27, 26, 26);}
+
+.email{color: crimson}
+
+.Min-Jun {display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.Zeke{ display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.Ezequiel {display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.Pablo {display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.John {display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.Ceres {display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.Lionel{display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.Xandy{display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.Orem{display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.Nathan{display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.Picture{width: 100%;}
+
+.Picture1{width: 100%;}
+
+.Picture2{width: 100%;}
+
+.Picture3{width: 100%;}
+
+.Picture4{width: 100%;}
+
+.PictureOS{width: 100%}
+
+.PictureOS1{width: 100%;}
+
+.Picture0S2{width: 1%;}
+
+.PictureOS3{width: 100%;}
+
+.PictureOS4{width: 100%;}
